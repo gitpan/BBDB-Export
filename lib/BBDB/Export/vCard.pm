@@ -2,6 +2,9 @@ package BBDB::Export::vCard;
 use strict;
 use warnings;
 
+our $VERSION = '0.015';
+
+
 our @ISA = qw(BBDB::Export);
 
 use Data::Dumper;

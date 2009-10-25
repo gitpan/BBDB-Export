@@ -2,6 +2,9 @@ package BBDB::Export::LDAP;
 use strict;
 use warnings;
 
+our $VERSION = '0.015';
+
+
 use BBDB::Export::LDIF;
 
 our @ISA = qw(BBDB::Export);

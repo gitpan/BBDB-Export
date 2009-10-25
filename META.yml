@@ -15,4 +15,4 @@ requires:
   Term::ANSIColor: 0
   Test::More: 0
   Text::vFile::asData: 0
-version: 0.013
+version: 0.015

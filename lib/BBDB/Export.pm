@@ -2,11 +2,8 @@ package BBDB::Export;
 use strict;
 use warnings;
 
-#
-#_* Version
-#
+our $VERSION = '0.015';
 
-our $VERSION = '0.013';
 
 #
 #_* Config
@@ -243,7 +240,7 @@ BBDB::Export - export data from The Insidious Big Brother Database.
 
 =head1 VERSION
 
-version 0.013
+version 0.015
 
 =head1 SYNOPSIS
 

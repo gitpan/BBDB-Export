@@ -141,6 +141,10 @@ __END__
 
  bbdb-export - export emacs bbdb info to ldif, or update in ldap.
 
+=head1 VERSION
+
+version 0.013
+
 =head1 SYNOPSIS
 
  bbdb-export [-h[elp]] [-v[erbose]] <-ldap|-ldif|-mailalias>
